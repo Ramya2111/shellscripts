@@ -1,5 +1,5 @@
 #!/bin/bash
-find -type d -name "r*" > r8.txt
+find -type d -name "r*" > r6.txt
 value=`cat r5.txt`
 for i in $value
 do
